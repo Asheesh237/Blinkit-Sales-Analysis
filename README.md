@@ -22,7 +22,7 @@ The analysis provides valuable insights into **sales performance, outlet perform
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard fiel]
+![Dashboard fiel]-- https://github.com/Asheesh237/Blinkit-Sales-Analysis/blob/main/BlinkIT%20Grocery%20Data%20Analysis.pdf
   Explore interactive dashboard & insights  
 
 ---
