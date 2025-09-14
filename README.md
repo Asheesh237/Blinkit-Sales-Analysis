@@ -16,13 +16,13 @@ The analysis provides valuable insights into **sales performance, outlet perform
 ## 📂 Project Files
 - `Blinkit_Sales.pbix` → Power BI Dashboard file  
 - `dashboard.png` → Screenshot of Dashboard  
-- `data.csv` → Dataset used  
+- `data.csv` → Dataset used  (https://github.com/Asheesh237/Blinkit-Sales-Analysis/blob/main/BlinkIT%20Grocery%20Data.xlsx)
 - `report.pdf` → Detailed report/documentation  
 
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard fiel](https://github.com/Asheesh237/Blinkit-Sales-Analysis/blob/main/BlinkIT%20Grocery%20Data.xlsx)
+![Dashboard fiel]
   Explore interactive dashboard & insights  
 
 ---
